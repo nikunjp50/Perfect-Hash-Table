@@ -1,1 +1,1 @@
-# Perfect-Hash-Table
+# Perfect-Hash-Table without any collision
